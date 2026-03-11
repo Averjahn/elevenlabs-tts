@@ -3,9 +3,21 @@
   "voices": {
     "ru1": "MF3mGyEYCl7XYWbV9V6O",
     "ru2": "AZnzlk1XvdvUeBnXmlld",
-    "ru3": "TxGEqnHWrfWFTfGW9XjX"
+    "ru3": "TxGEqnHWrfWFTfGW9XjX",
+    "ru4": "QHwrqszAvUuRatH8Ksr8"
   },
   "prompts": [
-    { "id": "divan", "text": "Дива́н" }
+    { "id": "divan", "text": "Дива́н" },
+    { "id": "pizhama", "text": "Пижама" },
+    { "id": "hleb", "text": "Хлеб" },
+    { "id": "pylesos", "text": "Пылесос" },
+    { "id": "belka", "text": "Белка" },
+    { "id": "kolco", "text": "Кольцо" },
+    { "id": "vilka", "text": "Вилка" },
+    { "id": "morkov", "text": "Морковь" },
+    { "id": "poezd", "text": "Поезд" },
+    { "id": "sapogi", "text": "Сапоги" },
+    { "id": "krysa", "text": "Крыса" },
+    { "id": "nos", "text": "Нос" }
   ]
 }
