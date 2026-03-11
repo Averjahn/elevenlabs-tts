@@ -1,0 +1,14 @@
+{
+  "name": "elevenlabs-tts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "tts": "node src/tts.mjs",
+    "tts:batch": "node src/tts.mjs --batch",
+    "start": "node src/tts.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "outputDir": "output",
+  "voices": {
+    "ru1": "MF3mGyEYCl7XYWbV9V6O",
+    "ru2": "AZnzlk1XvdvUeBnXmlld",
+    "ru3": "TxGEqnHWrfWFTfGW9XjX"
+  },
+  "prompts": [
+    { "id": "divan", "text": "Дива́н" }
+  ]
+}
