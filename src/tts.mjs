@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env node TEST
 
 import dotenv from "dotenv";
 import fs from "fs";
